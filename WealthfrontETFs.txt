@@ -1,0 +1,856 @@
+Invesco S&P 500 Low Volatility ETF
+SPLV
+
+iShares Core S&P Total U.S. Stock Market ETF
+ITOT
+
+ARK Innovation ETF
+ARKK
+
+Avantis US Equity ETF
+AVUS
+
+Avantis U.S. Small Cap Value ETF
+AVUV
+
+First Trust NASDAQ Cybersecurity ETF
+CIBR
+
+State Street SPDR Dow Jones Industrial Average ETF Trust
+DIA
+
+Global X SuperDividend US ETF
+DIV
+
+Amplify CWP Enhanced Dividend Income ETF
+DIVO
+
+iShares ESG MSCI KLD 400 ETF
+DSI
+
+First Trust Dow Jones Internet Index Fund
+FDN
+
+Schwab Fundamental U.S. Small Company ETF
+FNDA
+
+First Trust Capital Strength ETF
+FTCS
+
+Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF
+GSLC
+
+iShares Biotechnology ETF
+IBB
+
+iShares Global Clean Energy ETF
+ICLN
+
+iShares Expanded Tech-Software Sector ETF
+IGV
+
+iShares U.S. Medical Devices ETF
+IHI
+
+JPMorgan Equity Premium Income ETF
+JEPI
+
+JPMorgan Nasdaq Equity Premium Income ETF
+JEPQ
+
+JPMorgan US Momentum Factor ETF
+JMOM
+
+JPMorgan US Quality Factor ETF
+JQUA
+
+State Street SPDR S&P Bank ETF
+KBE
+
+State Street SPDR S&P Capital Markets ETF
+KCE
+
+State Street SPDR S&P Insurance ETF
+KIE
+
+Vanguard Mega Cap ETF
+MGC
+
+Global X MLP ETF
+MLPA
+
+VanEck Morningstar Wide Moat ETF
+MOAT
+
+VanEck Oil Services ETF
+OIH
+
+Global X US Infrastructure Development ETF
+PAVE
+
+Global X US Preferred ETF
+PFFD
+
+Invesco Water Resources ETF
+PHO
+
+Invesco BuyBack Achievers ETF
+PKW
+
+Invesco Nasdaq Next Gen 100 ETF
+QQQJ
+
+Invesco Nasdaq 100 ETF
+QQQM
+
+First Trust NASDAQ-100 Technology Index Fund
+QTEC
+
+Global X Nasdaq 100 Covered Call ETF
+QYLD
+
+Invesco S&P 500 Equal Weight ETF
+RSP
+
+Global X Russell 2000 Covered Call ETF
+RYLD
+
+Schwab US Small-Cap ETF
+SCHA
+
+State Street SPDR S&P 500 ETF Trust
+SPY
+
+State Street SPDR Portfolio S&P 500 High Dividend ETF
+SPYD
+
+State Street SPDR S&P 500 Fossil Fuel Reserves Free ETF
+SPYX
+
+First Trust NASDAQ Technology Dividend Index Fund
+TDIV
+
+Motley Fool 100 Index ETF
+TMFC
+
+iShares MSCI USA Min Vol Factor ETF
+USMV
+
+Vanguard Small-Cap Growth ETF
+VBK
+
+Vanguard Small-Cap Value ETF
+VBR
+
+Vanguard Dividend Appreciation ETF
+VIG
+
+Vanguard Real Estate ETF
+VNQ
+
+Vanguard Mid-Cap ETF
+VO
+
+Vanguard Mid-Cap Value ETF
+VOE
+
+Vanguard Mid-Cap Growth ETF
+VOT
+
+Vanguard Total Stock Market ETF
+VTI
+
+Vanguard Value ETF
+VTV
+
+Vanguard Growth ETF
+VUG
+
+State Street SPDR S&P Aerospace & Defense ETF
+XAR
+
+State Street SPDR S&P Biotech ETF
+XBI
+
+State Street SPDR S&P Homebuilders ETF
+XHB
+
+State Street Materials Select Sector SPDR ETF
+XLB
+
+State Street Communication Services Select Sector SPDR ETF
+XLC
+
+State Street Energy Select Sector SPDR ETF
+XLE
+
+State Street Financial Select Sector SPDR ETF
+XLF
+
+State Street Industrial Select Sector SPDR ETF
+XLI
+
+State Street Technology Select Sector SPDR ETF
+XLK
+
+State Street Consumer Staples Select Sector SPDR ETF
+XLP
+
+State Street Utilities Select Sector SPDR ETF
+XLU
+
+State Street Health Care Select Sector SPDR ETF
+XLV
+
+State Street Consumer Discretionary Select Sector SPDR ETF
+XLY
+
+State Street SPDR S&P Metals & Mining ETF
+XME
+
+State Street SPDR S&P Oil & Gas Exploration & Production ETF
+XOP
+
+State Street SPDR S&P Retail ETF
+XRT
+
+Global X S&P 500 Covered Call ETF
+XYLD
+
+
+Avantis International Equity ETF
+AVDE
+
+Avantis International Small Cap Value ETF
+AVDV
+
+Avantis Emerging Markets Equity ETF
+AVEM
+
+JPMorgan BetaBuilders Canada ETF
+BBCA
+
+JPMorgan BetaBuilders Japan ETF
+BBJP
+
+Vanguard Total International Bond ETF
+BNDX
+
+iShares Emerging Markets Dividend ETF
+DVYE
+
+SPDR Bloomberg Emerging Markets Local Bond ETF
+EBND
+
+iShares MSCI Chile ETF
+ECH
+
+iShares MSCI Emerging Markets Min Vol Factor ETF
+EEMV
+
+iShares MSCI EAFE Min Vol Factor ETF
+EFAV
+
+iShares MSCI EAFE Growth ETF
+EFG
+
+iShares MSCI EAFE Value ETF
+EFV
+
+iShares MSCI Indonesia ETF
+EIDO
+
+iShares MSCI Israel ETF
+EIS
+
+iShares MSCI Emerging Markets ex China ETF
+EMXC
+
+iShares MSCI Poland ETF
+EPOL
+
+iShares ESG Aware MSCI EAFE ETF
+ESGD
+
+iShares ESG Aware MSCI EM ETF
+ESGE
+
+iShares MSCI Australia ETF
+EWA
+
+iShares MSCI Sweden ETF
+EWD
+
+iShares MSCI Germany ETF
+EWG
+
+iShares MSCI Hong Kong ETF
+EWH
+
+iShares MSCI Italy ETF
+EWI
+
+iShares MSCI Switzerland ETF
+EWL
+
+iShares MSCI Malaysia ETF
+EWM
+
+iShares MSCI Netherlands ETF
+EWN
+
+iShares MSCI Spain ETF
+EWP
+
+iShares MSCI France ETF
+EWQ
+
+iShares MSCI Singapore ETF
+EWS
+
+iShares MSCI Taiwan ETF
+EWT
+
+iShares MSCI United Kingdom ETF
+EWU
+
+iShares MSCI Mexico ETF
+EWW
+
+iShares MSCI South Korea ETF
+EWY
+
+iShares MSCI South Africa ETF
+EZA
+
+State Street SPDR EURO STOXX 50 ETF
+FEZ
+
+Schwab Fundamental International Small Equity ETF
+FNDC
+
+Schwab Fundamental Emerging Markets Equity ETF
+FNDE
+
+Schwab Fundamental International Equity ETF
+FNDF
+
+Goldman Sachs ActiveBeta International Equity ETF
+GSIE
+
+iShares Currency Hedged MSCI EAFE ETF
+HEFA
+
+iShares MSCI India ETF
+INDA
+
+iShares MSCI Saudi Arabia ETF
+KSA
+
+iShares MSCI China ETF
+MCHI
+
+iShares MSCI EAFE Small-Cap ETF
+SCZ
+
+iShares MSCI India Small-Cap ETF
+SMIN
+
+iShares MSCI Thailand ETF
+THD
+
+iShares MSCI Turkey ETF
+TUR
+
+iShares MSCI UAE ETF
+UAE
+
+Vanguard FTSE Developed Markets ETF
+VEA
+
+Vanguard FTSE Europe ETF
+VGK
+
+Vanguard International Dividend Appreciation ETF
+VIGI
+
+Vanguard Global ex-U.S. Real Estate ETF
+VNQI
+
+Vanguard FTSE Pacific ETF
+VPL
+
+Vanguard ESG International Stock ETF
+VSGX
+
+Vanguard FTSE Emerging Markets ETF
+VWO
+
+Vanguard Emerging Markets Government Bond ETF
+VWOB
+
+Vanguard International High Dividend Yield ETF
+VYMI
+
+Wisdomtree Emerging Markets EX-State-Owned Enterprises Fund
+XSOE
+
+
+First Trust Dow Jones Internet Index Fund
+FDN
+
+iShares Biotechnology ETF
+IBB
+
+iShares Expanded Tech-Software Sector ETF
+IGV
+
+iShares U.S. Medical Devices ETF
+IHI
+
+iShares Global Tech ETF
+IXN
+
+US Global Jets ETF
+JETS
+
+State Street SPDR S&P Bank ETF
+KBE
+
+State Street SPDR S&P Capital Markets ETF
+KCE
+
+State Street SPDR S&P Insurance ETF
+KIE
+
+VanEck Oil Services ETF
+OIH
+
+Global X US Infrastructure Development ETF
+PAVE
+
+iShares MSCI Global Metals & Mining Producers ETF
+PICK
+
+Invesco Nasdaq 100 ETF
+QQQM
+
+VanEck Semiconductor ETF
+SMH
+
+Vanguard Real Estate ETF
+VNQ
+
+Vanguard Global ex-U.S. Real Estate ETF
+VNQI
+
+State Street SPDR S&P Aerospace & Defense ETF
+XAR
+
+State Street SPDR S&P Biotech ETF
+XBI
+
+State Street SPDR S&P Homebuilders ETF
+XHB
+
+State Street Materials Select Sector SPDR ETF
+XLB
+
+State Street Communication Services Select Sector SPDR ETF
+XLC
+
+State Street Energy Select Sector SPDR ETF
+XLE
+
+State Street Financial Select Sector SPDR ETF
+XLF
+
+State Street Industrial Select Sector SPDR ETF
+XLI
+
+State Street Technology Select Sector SPDR ETF
+XLK
+
+State Street Consumer Staples Select Sector SPDR ETF
+XLP
+
+State Street Utilities Select Sector SPDR ETF
+XLU
+
+State Street Health Care Select Sector SPDR ETF
+XLV
+
+State Street Consumer Discretionary Select Sector SPDR ETF
+XLY
+
+State Street SPDR S&P Metals & Mining ETF
+XME
+
+State Street SPDR S&P Oil & Gas Exploration & Production ETF
+XOP
+
+State Street SPDR S&P Retail ETF
+XRT
+
+iShares Future Exponential Technologies ETF
+XT
+
+VanEck Fallen Angel High Yield Bond ETF
+ANGL
+
+ARK Blockchain & Fintech Innovation ETF
+ARKF
+
+ARK Genomic Revolution ETF
+ARKG
+
+ARK Innovation ETF
+ARKK
+
+ARK Autonomous Technology & Robotics ETF
+ARKQ
+
+ARK Next Generation Internet ETF
+ARKW
+
+Avantis International Small Cap Value ETF
+AVDV
+
+Avantis Emerging Markets Equity ETF
+AVEM
+
+Avantis US Equity ETF
+AVUS
+
+Avantis U.S. Small Cap Value ETF
+AVUV
+
+Amplify Blockchain Technology ETF
+BLOK
+
+Global X Robotics & Artificial Intelligence ETF
+BOTZ
+
+First Trust NASDAQ Cybersecurity ETF
+CIBR
+
+Global X SuperDividend US ETF
+DIV
+
+iShares Emerging Markets Dividend ETF
+DVYE
+
+iShares MSCI Emerging Markets Min Vol Factor ETF
+EEMV
+
+iShares MSCI EAFE Min Vol Factor ETF
+EFAV
+
+iShares MSCI EAFE Growth ETF
+EFG
+
+iShares MSCI EAFE Value ETF
+EFV
+
+Schwab Fundamental U.S. Small Company ETF
+FNDA
+
+Schwab Fundamental International Small Equity ETF
+FNDC
+
+Schwab Fundamental Emerging Markets Equity ETF
+FNDE
+
+Schwab Fundamental International Equity ETF
+FNDF
+
+Goldman Sachs ActiveBeta International Equity ETF
+GSIE
+
+Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF
+GSLC
+
+JPMorgan Equity Premium Income ETF
+JEPI
+
+JPMorgan US Momentum Factor ETF
+JMOM
+
+JPMorgan US Quality Factor ETF
+JQUA
+
+State Street SPDR S&P Kensho New Economies Composite ETF
+KOMP
+
+VanEck Morningstar Wide Moat ETF
+MOAT
+
+Global X Nasdaq 100 Covered Call ETF
+QYLD
+
+Invesco S&P 500 Equal Weight ETF
+RSP
+
+Global X SuperDividend ETF
+SDIV
+
+State Street SPDR Portfolio S&P 500 High Dividend ETF
+SPYD
+
+First Trust NASDAQ Technology Dividend Index Fund
+TDIV
+
+Motley Fool 100 Index ETF
+TMFC
+
+iShares MSCI USA Min Vol Factor ETF
+USMV
+
+Vanguard Small-Cap Growth ETF
+VBK
+
+Vanguard Small-Cap Value ETF
+VBR
+
+Vanguard Dividend Appreciation ETF
+VIG
+
+Vanguard International Dividend Appreciation ETF
+VIGI
+
+Vanguard Mid-Cap Value ETF
+VOE
+
+Vanguard Mid-Cap Growth ETF
+VOT
+
+Vanguard Value ETF
+VTV
+
+Vanguard Growth ETF
+VUG
+
+Vanguard International High Dividend Yield ETF
+VYMI
+
+WisdomTree Cloud Computing Fund
+WCLD
+
+VanEck Gold Miners ETF/USA
+GDX
+
+VanEck Junior Gold Miners ETF
+GDXJ
+
+SPDR Gold MiniShares Trust
+GLDM
+
+State Street SPDR S&P Global Natural Resources ETF
+GNR
+
+iShares Global Energy ETF
+IXC
+
+Global X Lithium & Battery Tech ETF
+LIT
+
+Global X MLP ETF
+MLPA
+
+Alerian MLP ETF
+AMLP
+
+Invesco RAFI US 1000 ETF
+PRF
+
+iShares 0-3 Month Treasury Bond ETF
+SGOV
+
+iShares MSCI USA Momentum Factor ETF
+MTUM
+
+Vanguard Health Care Index Fund ETF
+VHT
+
+State Street Health Care Select Sector SPDR ETF
+XLV
+
+VanEck Oil Services ETF
+OIH
+
+iShares MSCI Global Metals & Mining Producers ETF
+PICK
+
+iShares Silver Trust
+SLV
+
+iShares MSCI Global Silver and Metals Miners ETF
+SLVP
+
+Global X Uranium ETF
+URA
+
+State Street Energy Select Sector SPDR ETF
+XLE
+
+State Street SPDR S&P Metals & Mining ETF
+XME
+
+State Street SPDR S&P Oil & Gas Exploration & Production ETF
+XOP
+
+ARK Blockchain & Fintech Innovation ETF
+ARKF
+
+ARK Genomic Revolution ETF
+ARKG
+
+ARK Innovation ETF
+ARKK
+
+ARK Autonomous Technology & Robotics ETF
+ARKQ
+
+ARK Next Generation Internet ETF
+ARKW
+
+Amplify Blockchain Technology ETF
+BLOK
+
+Global X Robotics & Artificial Intelligence ETF
+BOTZ
+
+First Trust NASDAQ Cybersecurity ETF
+CIBR
+
+First Trust Dow Jones Internet Index Fund
+FDN
+
+iShares Biotechnology ETF
+IBB
+
+iShares Expanded Tech-Software Sector ETF
+IGV
+
+iShares Global Tech ETF
+IXN
+
+State Street SPDR S&P Kensho New Economies Composite ETF
+KOMP
+
+Invesco WilderHill Clean Energy ETF
+PBW
+
+First Trust NASDAQ Clean Edge Green Energy Index Fund
+QCLN
+
+Invesco Nasdaq Next Gen 100 ETF
+QQQJ
+
+Invesco Nasdaq 100 ETF
+QQQM
+
+VanEck Semiconductor ETF
+SMH
+
+First Trust NASDAQ Technology Dividend Index Fund
+TDIV
+
+WisdomTree Cloud Computing Fund
+WCLD
+
+State Street SPDR S&P Biotech ETF
+XBI
+
+State Street Technology Select Sector SPDR ETF
+XLK
+
+iShares Future Exponential Technologies ETF
+XT
+
+ARK Blockchain & Fintech Innovation ETF
+ARKF
+
+ARK Genomic Revolution ETF
+ARKG
+
+ARK Innovation ETF
+ARKK
+
+ARK Autonomous Technology & Robotics ETF
+ARKQ
+
+ARK Next Generation Internet ETF
+ARKW
+
+Amplify Blockchain Technology ETF
+BLOK
+
+Global X Robotics & Artificial Intelligence ETF
+BOTZ
+
+VanEck Gold Miners ETF/USA
+GDX
+
+VanEck Junior Gold Miners ETF
+GDXJ
+
+iShares Global Clean Energy ETF
+ICLN
+
+iShares Expanded Tech-Software Sector ETF
+IGV
+
+iShares Global Energy ETF
+IXC
+
+iShares Global Tech ETF
+IXN
+
+US Global Jets ETF
+JETS
+
+State Street SPDR S&P Kensho New Economies Composite ETF
+KOMP
+
+Global X Lithium & Battery Tech ETF
+LIT
+
+Invesco WilderHill Clean Energy ETF
+PBW
+
+iShares MSCI Global Metals & Mining Producers ETF
+PICK
+
+First Trust NASDAQ Clean Edge Green Energy Index Fund
+QCLN
+
+Global X SuperDividend ETF
+SDIV
+
+iShares MSCI Global Silver and Metals Miners ETF
+SLVP
+
+VanEck Semiconductor ETF
+SMH
+
+Invesco Solar ETF
+TAN
+
+Vanguard Total World Stock ETF
+VT
+
+Vanguard Total International Stock ETF
+VXUS
+
+WisdomTree Cloud Computing Fund
+WCLD
+
+iShares Future Exponential Technologies ETF
+XT
+
+iShares Ethereum Trust ETF
+ETHA
+
+iShares Bitcoin Trust ETF
+IBIT

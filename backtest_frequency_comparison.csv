@@ -1,0 +1,4 @@
+schedule,rule,total_return,cagr,annual_volatility,sharpe,max_drawdown,avg_turnover_per_rebalance,rebalances,start_date,end_date,equity_curve_file,rebalance_file
+weekly,W-FRI,1.0928110356707492,0.1270506186599556,0.14609280555708798,0.9195148888964769,-0.16865491362051188,0.18620689655172415,261,2020-01-02,2026-03-12,backtest_equity_weekly.csv,backtest_rebalances_weekly.csv
+monthly,M,0.9462295161083589,0.1138739701177911,0.145511587496442,0.8244522546107894,-0.16262548024397816,0.2966666666666667,60,2020-01-02,2026-03-12,backtest_equity_monthly.csv,backtest_rebalances_monthly.csv
+quarterly,Q,0.7426945169017041,0.09412434877363474,0.15903259378387669,0.651005820613078,-0.22937113745819782,0.5300000000000001,20,2020-01-02,2026-03-12,backtest_equity_quarterly.csv,backtest_rebalances_quarterly.csv
